@@ -27,7 +27,7 @@ TEMPLATE_DIR=os.path.join(BASE_DIR,'templates')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*','sign_lang.com']
+ALLOWED_HOSTS = ['*','indian-sign.herokuapp.com']
 
 
 # Application definition
